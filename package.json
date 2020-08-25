@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+  "main": "src/index.js",
   "homepage": "http://averyvanacore.com/",
   "private": true,
   "dependencies": {
