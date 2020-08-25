@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+  "homepage": "http://averyvanacore.com/",
   "private": true,
   "dependencies": {
     "@brainhubeu/react-carousel": "^1.19.26",
