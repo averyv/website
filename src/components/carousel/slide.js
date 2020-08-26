@@ -1,10 +1,6 @@
 import React, { Component } from 'react';
-import { Route, Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCircle } from '@fortawesome/free-solid-svg-icons';
-// import landingData from '../Landing';
-// import Library from '../../library/Library';
-// import './main.css';
 
 class Slide extends Component {
   constructor(props) {
@@ -27,10 +23,6 @@ class Slide extends Component {
                 src={require(`../../img/${s.image}`)}
                 alt="First slide"
                 />
-              <p className={index === 0 ? 'mainSlide carousel-heading' : 'slider-item carousel-heading'}>{s.title}</p>
-              {/* <p>{s.description}</p>
-              <Link to='../../library/Library'><button className='button'>{s.buttons}</button></Link> */}
-              
           </div>
      
         ) }

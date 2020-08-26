@@ -2,10 +2,11 @@ import React, { Component } from 'react';
 import Slide from './slide';
 import LeftArrow from './leftArrow';
 import RightArrow from './rightArrow';
-// import './main.css';
 
-// https://medium.com/@caittpayne/create-a-carousel-in-react-js-fc5d75e3b46b
-// https://github.com/caittpayne/LYD-Music-App
+/*
+This Carousel is inspired by a Medium article written by Cait Payne at https://medium.com/@caittpayne/create-a-carousel-in-react-js-fc5d75e3b46b
+The corresponding code is posted at https://github.com/caittpayne/LYD-Music-App
+*/
 
 export default class Slider extends Component {
   constructor(props) {
