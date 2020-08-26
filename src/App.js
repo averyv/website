@@ -174,8 +174,8 @@ class App extends React.Component {
                 <li>HTML</li>
                 <li>CSS</li>
                 <li>JavaScript</li>
-                <li>jQuery</li>
                 <li>React</li>
+                <li>Redux</li>
                 <li>React Native</li>
               </ul>
             </div>
