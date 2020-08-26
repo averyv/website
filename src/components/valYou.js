@@ -8,7 +8,7 @@ class ValYou extends React.Component {
   constructor() {
     super();
     this.state = {
-      tags: ['React Native', 'Redux']
+      tags: ['React Native', 'Redux', 'Heroku','Express', 'Mongoose']
     }
   }
   

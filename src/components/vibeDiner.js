@@ -8,7 +8,7 @@ class VibeDiner extends React.Component {
   constructor() {
     super();
     this.state = {
-      tags: ['React', 'CSS', 'Redux']
+      tags: ['React', 'CSS', 'Redux', 'Babel', 'Webpack', 'Express', 'Heroku','Mongoose']
     }
   }
   
